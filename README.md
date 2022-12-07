@@ -5,7 +5,7 @@ SQLite
 
 # Overview of the statistical analysis:
 ## purpose
-### The purpose of this analysis was to review weather data and use it to determine how temperature would affect a prospective surf and ice cream shop. 
+### The purpose of this analysis was to review weather data and use it to determine how temperature would affect a prospective surf and ice cream shop. The owner of the shop is looking for an investor and supporting data analysis to backup the shop's potential given that weather in Hawaii could be a risk factor. 
 
 # Results:
 ### * The two main data points used were June and December. They both had an average of 75 degrees and 71 degrees respectively. Given that the shop is located in Oahu, Hawaii, this was expected to be warm weather year around. 
