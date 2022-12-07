@@ -17,7 +17,7 @@ June_temps.png![image](https://user-images.githubusercontent.com/111030781/20579
 Dec_temps.png![image](https://user-images.githubusercontent.com/111030781/205791907-e6227cb1-c4b1-4712-b632-3155013327af.png)
 
 # Summary:
-### A more thoughrough analysis could be given by assessing other factors that could affect the shop. In addition to looking at the temperature data, we could also look at precipitation as well. If there is a tourist traffic data to filter for inbounds flights to Oahu, the owner could have a better idea where most of the sales would come from. Lastly, looking at and understanding outliers within the given data could help us understand the integrity of the current analysis.
+### A more thoughrough analysis could be given by assessing other factors that could affect the shop. In addition to looking at the temperature data, we could also look at precipitation as well. If there is a tourist traffic data to filter for inbounds flights to Oahu, the owner could have a better idea where most of the sales would come from. Lastly, looking at and understanding outliers within the given data could help us understand the integrity of the current analysis. For the month of December for example, even though there is a lower temperature point, a few of the data in that quartile are outliers, the mean is somewhat similar to the month of June. This should be expected since Hawaii is a toursistic zone that is very popular for its great weather all year-round.
 <img width="519" alt="Query Used" src="https://user-images.githubusercontent.com/111030781/206162606-bcf7c14b-399d-405a-be86-559c58f91d8b.png">
 
 <img width="592" alt="Box Plot" src="https://user-images.githubusercontent.com/111030781/206162650-b3edb89c-cce6-427c-a597-eb8ef27d0726.png">
